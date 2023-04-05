@@ -1,0 +1,50 @@
+,Product,Business object,Issue,Solution 
+0,C4C,SalesQuote,submit disabled,2629811 - Action Submit is Disabled For Sales Quote
+1,C4C,SalesQuote,price,2940435 - Product Price Missing From Sales Quote 
+2,C4C,SalesQuote,copy,3076907 - Can't Copy CPQ Quotes
+3,C4C,SalesQuote,external indicator,2611062 - How Extern Indicator Works in Sales Quotes
+4,C4C,SalesQuote,Scoping ,2758035 - Scoping Questions - Sales Quotes
+5,C4C,SalesQuote,Preview external quote,2367769 - You are Unable to Preview  The ERP Sales Quote Which Was Replicated to C4C.
+6,C4C,SalesQuote,BTD Reference,3141807 - Sales Quote Copy BTD References
+7,C4C,SalesQuote,New button grayed out,2657650 - New Button is Grayed Out For Sales Order in Sales Quote
+8,C4C,SalesQuote,status completed,2720090 - Sales Quote Status Does Not Change to Completed
+9,C4C,SalesQuote,Reapproval ,2717556 - Sales Quote Not Submitted For Reapproval
+10,C4C,SalesQuote,Inbound replication,2992975 - Sales Quote Probability Not Editable After First Save
+11,C4C,SalesQuote,Replication status reset,2790051 - Reset Replication Status for Sales Quote in Cloud for Customer
+12,C4C,SalesQuote,delete quote,2948734 - Delete Submitted Sales Quotes
+13,C4C,SalesQuote,XML Payload,2945585 - How to Obtain XML Payload For Sales Quote
+14,C4C,SalesQuote,Pricing facet,2072191 - The Pricing Facet is Missing in the Sales Quote
+15,C4C,SalesQuote,Delete CPQ,2945512 - CPQ Sales Quote To Be Deleted From Cloud for Customer
+16,C4C,SalesOrder,offline,3096406 - Sales Order is Not Editable in Offline Mode
+17,C4C,SalesOrder,pricing,2665647 - Pricing Component Field In Sales Order
+18,C4C,SalesOrder,Replication S4,2372659 - Enable Sales Order replication from S4 to C4C
+19,C4C,SalesOrder,Item party replication,2307948 - Item Party replication in Sales Order from C4C to ERP
+20,C4C,SalesOrder,AFS Integration,2164421 - Cloud For Customer - C4C to AFS Integration
+21,C4C,SalesOrder,Partner address ,2528764 - Replication of Partner Address change in Sales Order
+22,C4C,SalesOrder,Request date,2951835 - Requested Date not Updated in Sales Order
+23,C4C,SalesOrder,Approval status,2917278 - Submit for Approval Not Available in Transferred Sales Order
+24,C4C,SalesOrder,Delivery priority,3170833 - Sales Order Delivery Priority is not Working as Expected
+25,C4C,SalesOrder,edit sales order,2979968 - Error while editing sales order with status open or process
+26,C4C,SalesOrder,maintainance mode,3135333 - External Inbound Maintenance Mode for Sales Orders
+27,C4C,SalesOrder,offline determination,3312264 - Seller Not Determined For Sales Order In Offline Mode
+28,C4C,SalesOrder,delivery block,2821402 - Delivery Block Field Greyed Out In Sales Order
+29,C4C,Opportunity,custom status,2700137 - Custom Opportunity Status Not Changing
+30,C4C,Opportunity,Open opportunity from account,3039376 - Missing Option to Directly Open Opportunity From Account Overview
+31,C4C,Opportunity,sales phase,3080707 - Cannot Change Sales Phase Field in an Opportunity Created from Outlook
+32,C4C,Opportunity,replication,3215258 - Replicate Inconsistent Opportunities
+33,C4C,Opportunity,trend analytics,3310056 - Opportunities not Appearing in Trend Analytics view
+34,C4C,Opportunity,import status,3087405 - Status Of Imported Opportunity Not Changed to Stalled  
+35,C4C,tickets,ATP check,2621928 - How to Enable ATP Check for Work Tickets in C4C
+36,C4C,tickets,delete ticket,3157425 - Removing/Deleting Tickets from Cloud for Service
+37,C4C,tickets,attachments Odata,3297959 - How to Get Tickets Attachments via OData API
+38,C4C,tickets,reply on ticket,2586440 - Outlook signature not being added to replies for Ticket
+39,C4C,tickets,outbound message,2733949 - Ticket Status Closed Triggers an Outbound Message to ERP
+40,C4C,tickets,non-active employees,2322721 - How to create tickets for non-active employees
+41,C4C,tickets,attachment replication,2534566 - Attachment Replication is not Working for Tickets
+42,C4C,EmailChannel,email bounce,2915473 - How email bounce scenario works in Cloud for Customer(C4C)
+43,C4C,EmailChannel,email address sync,2942091 - How to sync contact's email address from Gmail to C4C
+44,C4C,EmailChannel,outbound size ,2794421 - Inbound and Outbound E-mail Size Limit
+45,C4C,EmailChannel,create ticket,2714251 - E-mail Channel Not Creating Tickets
+46,C4C,EmailChannel,debug email,2366451 - How to debug incoming email to C4C from backend
+47,C4C,EmailChannel,incoming email,2765602 - Incoming E-Mail Activities Are Set Automatically to Completed
+48,C4C,EmailChannel,codelist restriction,2714243 - Codelist Restriction does not work for Ticket Type using Channel E-mail
